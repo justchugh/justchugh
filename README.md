@@ -41,7 +41,7 @@
 
 
 
-<br><br>
+<br>
 
 
 <h3 align="left">Skills</h3>
@@ -61,7 +61,7 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     </a>
     <!-- Add more Machine Learning & Data Analysis logos here -->
-</p><br>
+</p>
 
 <h4>Database & Big Data</h4>
 <p align="left">
@@ -78,7 +78,7 @@
         <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
     </a>
     <!-- Add more Database & Big Data logos here -->
-</p><br>
+</p>
 
 <h4>Web Development & Frontend & Backend</h4>
 <p align="left">
@@ -95,7 +95,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <!-- Add more Web Development & Frontend & Backend logos here -->
-</p><br>
+</p>
 
 <h4>Cloud</h4>
 <p align="left">
