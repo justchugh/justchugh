@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Snehalraj Chugh</h1>
-<h3 align="center">An Enthu Data Science Engineer in Washington DC-Baltimore Area</h3>
+![logo](https://github.com/justchugh/justchugh/blob/main/banner%20px.png)
+
+<h1 align="center">I'm Snehalraj Chugh</h1>
+<h3 align="center">An Enthu Data Science Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
