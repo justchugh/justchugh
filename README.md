@@ -2,20 +2,47 @@
 
 <h1 align="center">I'm Snehalraj Chugh</h1>
 <h3 align="center">An Enthu Data Science Engineer</h3>
+<br><br>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" style="display: block; margin: 0 auto;" />
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+
+
 
 <ul>
-    <li>🔭 I’m currently working on <strong>Quick Job Linkedin</strong></li>
+    <li>🔭 I’m currently working on <strong>App Quick Job Linkedin</strong></li>
     <li>🌱 I’m currently learning <strong>Tiny ML</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>Machine Learning, Data Analysis, Databases, Big Data, Web Development, Cloud projects</strong></li>
-    <li>🤝 I’m looking for help with <strong>Interactive Dashboards and Advanced Data Visualization</strong></li>
+    <li>👯 I’m looking to collaborate on 
+        <strong><ul>
+            <li><em><small>Machine Learning</small></em></li>
+            <li><em><small>Data Analysis</small></em></li>
+            <li><em><small>Databases</small></em></li>
+            <li><em><small>Big Data</small></em></li>
+            <li><em><small>Web Development</small></em></li>
+            <li><em><small>Cloud</small></em></li>
+        </ul></strong>
+    </li>
+    <li>🤝 I’m looking for help with 
+            <strong><ul>
+                <li><em><small>Interactive Dashboards</small></em></li>
+                <li><em><small>Advanced Data Visualization</small></em></li>
+        </ul></strong>
+    </li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/XXXXXX" target="_blank">github.com/XXXXXX</a></li>
-    <li>💬 Ask me about <strong>Deep Learning, Natural Language Processing, and Data Analytics</strong></li>
+    <li>💬 Ask me about 
+        <strong><ul>
+            <li><em><small>Deep Learning</small></em></li>
+            <li><em><small>Natural Language Processing</small></em></li>
+            <li><em><small>Data Analytics</small></em></li>
+        </ul></strong>
     <li>📫 How to reach me <a href="mailto:snehalchugh2016@gmail.com">snehalchugh2016@gmail.com</a></li>
     <li>📄 Know about my experiences <a href="https://github.com/XXXXXXXXX" target="_blank">github.com/XXXXXXXXX</a></li>
     <li>⚡ Fun fact <strong>2 red bulls and 2 nights, can get a project ready!</strong></li>
 </ul>
+
+
+
+<br><br>
+
 
 <h3 align="left">Skills</h3>
 
