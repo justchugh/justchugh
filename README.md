@@ -3,7 +3,7 @@
 <h1 align="center">I'm Snehalraj Chugh</h1>
 <h3 align="center">An Enthu Data Science Engineer</h3>
 <br><br>
-<img align="right" alt="coding" width="400" src="https://github.com/justchugh/justchugh/blob/8d16d0e7471bd29dbe2613e9d075e5458a4027ec/justchugh.gif" style="display: block; margin: 0 auto;" />
+<img align="right" alt="coding" width="300" src="https://github.com/justchugh/justchugh/blob/8d16d0e7471bd29dbe2613e9d075e5458a4027ec/justchugh.gif" style="display: block; margin: 0 auto;" />
 
 
 
