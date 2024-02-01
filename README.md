@@ -28,7 +28,7 @@
                 <li><em><small>Advanced Data Visualization</small></em></li>
         </ul></strong>
     </li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/XXXXXX" target="_blank">github.com/XXXXXX</a></li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/justchugh" target="_blank">https://github.com/justchugh</a></li>
     <li>💬 Ask me about 
         <strong><ul>
             <li><em><small>Deep Learning</small></em></li>
