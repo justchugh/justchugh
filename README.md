@@ -28,7 +28,7 @@
                 <li><em><small>Advanced Data Visualization</small></em></li>
         </ul></strong>
     </li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/justchugh" target="_blank">https://github.com/justchugh</a></li>
+    <li>👨‍💻 All of my projects are available <a href="https://github.com/justchugh?tab=repositories" target="_blank">here</a></li>
     <li>💬 Ask me about 
         <strong><ul>
             <li><em><small>Deep Learning</small></em></li>
@@ -36,7 +36,7 @@
             <li><em><small>Data Analytics</small></em></li>
         </ul></strong>
     <li>📫 How to reach me <a href="mailto:snehalchugh2016@gmail.com">snehalchugh2016@gmail.com</a></li>
-    <li>📄 Know about my experiences <a href="https://github.com/XXXXXXXXX" target="_blank">github.com/XXXXXXXXX</a></li>
+    <li>📄 <a href="https://justchugh.github.io" target="_blank">My Portfolio</a></li>
     <li>⚡ Fun fact <strong>2 red bulls and 2 nights, can get a project ready!</strong></li>
 </ul>
 
