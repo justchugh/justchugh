@@ -7,8 +7,6 @@
 
 
 
-
-
 <ul>
     <li>🔭 I’m currently working on <strong>App Quick Job Linkedin</strong></li>
     <li>🌱 I’m currently learning <strong>Tiny ML</strong></li>
